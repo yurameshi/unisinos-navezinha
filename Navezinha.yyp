@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "e2314840-c0b3-4c84-a0ab-9268901cdafa",
+            "Value": {
+                "id": "cc15f197-1a1d-4255-9d49-c9b80f90ab12",
+                "resourcePath": "objects\\obj_wallan\\obj_wallan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e5690fa7-efe4-4cb6-8f5e-99c106953366",
             "Value": {
                 "id": "4253139d-87c5-48fb-82f6-4eeba597362e",
